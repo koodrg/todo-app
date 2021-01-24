@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:scoped_model/scoped_model.dart';
 import 'package:todo/scopedmodel/todo_list_model.dart';
-import 'package:todo/task_progress_indicator.dart';
+import 'package:todo/component/task_progress_indicator.dart';
 import 'package:todo/component/todo_badge.dart';
 import 'package:todo/model/hero_ani_model.dart';
 import 'package:todo/model/task_model.dart';
